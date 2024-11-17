@@ -785,7 +785,6 @@ class Hikka:
                 "https://github.com/hikariatama/assets/raw/master/hikka_banner.mp4",
                 caption=(
                     "👤 READY TO EDIT"
-                    )
                 ),
             )
 
