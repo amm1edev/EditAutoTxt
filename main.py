@@ -784,14 +784,7 @@ class Hikka:
                 logging.getLogger().handlers[0].get_logid_by_client(client.tg_id),
                 "https://github.com/hikariatama/assets/raw/master/hikka_banner.mp4",
                 caption=(
-                    "🌘 <b>Hikka {} started!</b>\n\n🌳 <b>GitHub commit SHA: <a"
-                    ' href="https://github.com/hikariatama/Hikka/commit/{}">{}</a></b>\n✊'
-                    " <b>Update status: {}</b>\n<b>{}</b>".format(
-                        ".".join(list(map(str, list(__version__)))),
-                        build,
-                        build[:7],
-                        upd,
-                        web_url,
+                    "👤 READY TO EDIT"
                     )
                 ),
             )
